@@ -5,7 +5,11 @@
 //  Created by scsys on 16/3/4.
 //  Copyright © 2016年 Breen. All rights reserved.
 //
-
+/*
+ 1、准备好要上传的项目
+ 2、点击  add
+ 
+ */
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
